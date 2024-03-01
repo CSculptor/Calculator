@@ -1,10 +1,11 @@
-# Basic Calculator :
-The calculator dan do :
-- Addition(+)
-- Subtraction(-)
-- Multiplication
-- Division(/)
-you can check the python code for more details
+# Basic Calculator:
+The calculator can perform the following operations:
+
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/)
+
+You can refer to the Python code for more details. 
 ## Notice :
-if the code contains any errors or the code gives unwanted results
-you can modify the code for better use
+Please note that if the code contains any errors or produces unexpected results, feel free to modify it for better usage.
